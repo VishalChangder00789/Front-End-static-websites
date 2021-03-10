@@ -1,5 +1,7 @@
 # Front-End-static-websites
-Front End Static Website Designs
+* Front End Static Website Designs.
+* These are some of my early hands on in web developement.
+
 
 # Screenshots : 
 ![](2.png)
